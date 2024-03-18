@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HotelReservation.Core\HotelReservation.Core.csproj" />
+    <ProjectReference Include="..\HotelReservation.Core\HotelReservation.Shared.csproj" />
     <ProjectReference Include="..\HotelReservation.Data\HotelReservation.Data.csproj" />
   </ItemGroup>
 

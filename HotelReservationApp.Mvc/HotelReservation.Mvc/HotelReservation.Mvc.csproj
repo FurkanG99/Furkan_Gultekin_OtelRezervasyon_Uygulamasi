@@ -15,7 +15,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HotelReservation.Business\HotelReservation.Business.csproj" />
-    <ProjectReference Include="..\HotelReservation.Core\HotelReservation.Core.csproj" />
+    <ProjectReference Include="..\HotelReservation.Core\HotelReservation.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\ui\" />
   </ItemGroup>
 
 </Project>
