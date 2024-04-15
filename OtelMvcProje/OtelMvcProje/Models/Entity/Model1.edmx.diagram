@@ -13,7 +13,7 @@
         <EntityTypeShape EntityType="DbOtelYeniModel.TblRezervasyon" Width="1.5" PointX="7.625" PointY="1.25" />
         <AssociationConnector Association="DbOtelYeniModel.FK_TblRezervasyon_TblMisafir" />
         <EntityTypeShape EntityType="DbOtelYeniModel.TblMesaj2" Width="1.5" PointX="5.375" PointY="5.75" />
-        <EntityTypeShape EntityType="DbOtelYeniModel.TblOda" Width="1.5" PointX="0.75" PointY="7" />
+        <EntityTypeShape EntityType="DbOtelYeniModel.TblOda" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
         <AssociationConnector Association="DbOtelYeniModel.FK_TblRezervasyon_TblOda" />
         <EntityTypeShape EntityType="DbOtelYeniModel.TblEkibimiz" Width="1.5" PointX="7.375" PointY="5.75" />
         <EntityTypeShape EntityType="DbOtelYeniModel.TblOnRezervasyon" Width="1.5" PointX="3.375" PointY="8.75" />
