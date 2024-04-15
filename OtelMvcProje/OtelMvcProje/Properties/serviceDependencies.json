@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:&quot;datasource=FURKANPC;initialcatalog=DbOtelYeni;integratedsecurity=True;trustservercertificate=True;contextconnection=False",
+      "dynamicId": null
+    }
+  }
+}
