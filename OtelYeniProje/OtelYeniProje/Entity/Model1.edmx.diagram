@@ -18,7 +18,7 @@
         <EntityTypeShape EntityType="DbOtelYeniModel.TblTelefon" Width="1.5" PointX="3" PointY="23" IsExpanded="true" />
         <EntityTypeShape EntityType="DbOtelYeniModel.TblUlke" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="DbOtelYeniModel.TblUrun" Width="1.5" PointX="5.25" PointY="14" IsExpanded="true" />
-        <EntityTypeShape EntityType="DbOtelYeniModel.TblUrunGrup" Width="1.5" PointX="3" PointY="25.75" IsExpanded="false" />
+        <EntityTypeShape EntityType="DbOtelYeniModel.TblUrunGrup" Width="1.5" PointX="3" PointY="25.75" IsExpanded="true" />
         <AssociationConnector Association="DbOtelYeniModel.FK_TblBirim_TblDurum" ManuallyRouted="false" />
         <AssociationConnector Association="DbOtelYeniModel.FK_TblUrun_TblBirim" ManuallyRouted="false" />
         <AssociationConnector Association="DbOtelYeniModel.FK_TblDepartman_TblDurum" ManuallyRouted="false" />
